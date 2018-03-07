@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="patek_tra" size="1.000000 1.100529" />
+    <ImageTarget name="jeager_tra" size="1.000000 1.000000" />
+    <ImageTarget name="Rolex-Datejust-41-Blue-dial" size="1.000000 1.345291" />
+    <ImageTarget name="rolex" size="1.000000 1.000000" />
+    <ImageTarget name="patek" size="1.000000 1.001957" />
+    <ImageTarget name="jaeger" size="1.000000 1.001965" />
+  </Tracking>
+</QCARConfig>
